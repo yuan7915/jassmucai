@@ -13,3 +13,4 @@ call TimerStart(tm,10.00,true,function ljlx)
 set tm=null
 endfunction
 //////10秒定时加5%木
+王维是我弟弟
